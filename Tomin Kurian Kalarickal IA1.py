@@ -22,14 +22,9 @@ print(f'BMI value for a person height of (height_m) and of weight(weight_kg) for
 print("BMI =", round(bmi,1))
 print("BMI metric =", round(bmi_metric,1))
 
-#problem_2
-#input
-duration_hrs = float(input("Enter the total duration in hours: "))
-speed = float(input("Enter the speed in miles per hour: "))
-#processing
-distance = speed * duration_hrs
-distance= min(distance,30)
-#display the output
-print("Distance =", distance)
+
+
+
+
 
 
